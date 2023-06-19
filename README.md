@@ -41,5 +41,3 @@ modulo 1 gil e github.
 **``git reset --hard HEAD~1``**
 
 
-**codigo de segurança**
-**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**
